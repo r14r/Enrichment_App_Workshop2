@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.app",
+  "appName": "Sidemenu",
+  "bundledWebRuntime": false,
+  "webDir": "www",  
+  "windowsAndroidStudioPath": "D:\\DevApps\\Android\\Studio\\bin\\studio64.exe"
+
+}
